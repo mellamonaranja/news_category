@@ -1,1 +1,1 @@
-# news_category
+# category_separation
